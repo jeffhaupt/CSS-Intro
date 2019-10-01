@@ -22,3 +22,31 @@ span {
   color: #c90;
   font-weight: 700;
 }
+
+/**************************************************************
+************ box styling ***********************
+***************************************************************/
+
+.boxes {
+  width: 30em;
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 2.5em;
+  padding: 2em;
+}
+
+#box1 {
+  background-color: #330;
+}
+
+#box2 {
+  background-color: #363;
+}
+
+#box3 {
+  background-color: #366;
+}
+
+#box4 {
+  background-color: #399
+}
