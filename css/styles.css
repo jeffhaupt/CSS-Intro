@@ -61,3 +61,51 @@ span {
   top: 50px;
   left: 50px;
 }
+
+h1 {
+  color: #364336;
+}
+
+.original {
+  color: #a045d1;
+}
+
+.additional {
+  color: #992211;
+}
+
+#show1 {
+  color: #333;
+}
+
+#show2 {
+  color: #444;
+}
+
+#show3 {
+  color: #555;
+}
+
+#show4 {
+  color: #666;
+}
+
+#show5 {
+  color: #777;
+}
+
+ul {
+  color: #661122;
+}
+
+.star {
+  color: yellow;
+}
+
+#wars {
+  color: orange;
+}
+
+.listWrapper {
+  border: 2px solid black;
+}
